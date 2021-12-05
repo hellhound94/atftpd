@@ -12,3 +12,11 @@ install tftpsrv on ubuntu
 4º  - O script abrirá o arquivo de log para confirmar o sucesso da operação.
 
 Feito!!!
+
+#Config
+logfile /var/log/atftpd.log
+port 69
+/srv/tftp
+
+Abner Cordeiro - 2021
+
