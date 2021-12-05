@@ -1,2 +1,14 @@
 # tftpsrv
 install tftpsrv on ubuntu
+
+1º  - Torne o arquivo tftpsrv.sh executável, em suas propriedades.
+
+2º  - Com o terminal na pasta do arquivo execute tftpsrv.sh:
+            sudo ./tftpsrv.sh
+
+3º  - Após instalado, o script abrirá o arquivo inetd.conf
+            comente a linha que começa com: tftp dgram udp wait nobody
+            
+4º  - O script abrirá o arquivo de log para confirmar o sucesso da operação.
+
+Feito!!!
