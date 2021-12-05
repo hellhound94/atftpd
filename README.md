@@ -13,7 +13,7 @@ install tftpsrv on ubuntu
 
 Feito!!!
 
-#Config
+Config
 logfile /var/log/atftpd.log
 port 69
 /srv/tftp
