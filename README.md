@@ -1,4 +1,9 @@
 # atftpd - 2021 - Abner Cordeiro - abnercordeiro@outlook.com
+
+O protocolo TFTP é uma versão mais simples do FTP clássico, usada principalmente para atualizar o firmware em dispositivos de rede, como roteadores ou telefones IP. Também pode iniciar computadores remotos (PXE).
+
+# Instalação:
+
 instalar atftpd no ubuntu - install atftpd on ubuntu
 
 1º  - Torne o arquivo tftpsrv.sh executável, em suas propriedades.
