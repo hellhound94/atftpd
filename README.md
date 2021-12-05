@@ -1,5 +1,5 @@
 # tftpsrv
-install tftpsrv on ubuntu
+instalar tftpsrv no ubuntu - install tftpsrv on ubuntu
 
 1º  - Torne o arquivo tftpsrv.sh executável, em suas propriedades.
 
