@@ -1,4 +1,4 @@
-# atftpd
+# atftpd - 2021 - Abner Cordeiro - abnercordeiro@outlook.com
 instalar atftpd no ubuntu - install atftpd on ubuntu
 
 1º  - Torne o arquivo tftpsrv.sh executável, em suas propriedades.
